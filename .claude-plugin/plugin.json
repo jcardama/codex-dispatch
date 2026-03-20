@@ -1,0 +1,13 @@
+{
+  "name": "codex-dispatch",
+  "description": "Dispatch tasks to Codex via MCP with enforced cwd, sandbox, and self-contained prompts. Covers code review, plan execution, and general repo tasks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jose Cardama",
+    "email": ""
+  },
+  "homepage": "https://github.com/jcardama/codex-dispatch",
+  "repository": "https://github.com/jcardama/codex-dispatch",
+  "license": "MIT",
+  "keywords": ["codex", "mcp", "dispatch", "code-review", "skills"]
+}
