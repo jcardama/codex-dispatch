@@ -13,6 +13,12 @@ When you ask your agent to "get Codex to review the unstaged changes" or "have C
 
 ## Installation
 
+### skills.sh
+
+```bash
+npx skills add jcardama/codex-dispatch
+```
+
 ### Claude Code (Official Marketplace)
 
 If this skill is listed on the official Claude plugin marketplace:
